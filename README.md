@@ -1,0 +1,4 @@
+- Brandon Red  
+- <img src="redb-picture.jpg" width="200" height="200">
+- Class of 2022  
+- Unsure, but would like to try a Machine Learning project, have only worked on web development so it would be cool to try something new  
